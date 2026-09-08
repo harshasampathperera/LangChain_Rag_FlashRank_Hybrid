@@ -125,7 +125,7 @@ LangChain_RAG_FlashRank_Hybrid/
 
 ### Main Files
 
-**`LangChain_Embedding.py`**
+**`LLM_PDF_LangChain_Embedding.py`**
 
 Responsible for:
 
